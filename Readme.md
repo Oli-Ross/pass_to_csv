@@ -1,6 +1,6 @@
 # Readme
 
-This bash script will export the password data from the (`pass`)[https://www.passwordstore.org/] password manager into CSV
+This bash script will export the password data from the [`pass`](https://www.passwordstore.org/) password manager into CSV
 format.
 
 ## Requirements
